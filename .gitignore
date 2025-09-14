@@ -1,0 +1,22 @@
+# node_modules
+node_modules/
+
+# Logs
+*.log
+
+# Diretórios de build
+dist/
+build/
+.next/
+
+# Configurações de IDEs/editors
+.vscode/
+.idea/
+
+# Arquivos temporários do sistema operacional
+.DS_Store
+Thumbs.db
+
+# Arquivos de ambiente
+.env
+
